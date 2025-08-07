@@ -11,10 +11,10 @@ This repository contains a comprehensive implementation and exploration of **Sta
 ## 📂 Project Structure
 
 ```
-├── DDPM/ddpm_from_scratch.ipynb          # Pure PyTorch implementation of DDPM
-├── Deep/deep_dive2.ipynb # AutoencoderKL, UNet2DConditionModel, LMSDiscreteScheduler
-├── stable-diffusion-webui/          # Stable Diffusion Web UI (AUTOMATIC1111 fork or similar)
-└── README.md                        # You are here
+├── DDPM/ddpm_from_scratch.ipynb    # Pure PyTorch implementation of DDPM
+├── Deep/deep_dive2.ipynb           # AutoencoderKL, UNet2DConditionModel, LMSDiscreteScheduler
+├── stable-diffusion-webui/         # Stable Diffusion Web UI (AUTOMATIC1111 fork or similar)
+└── README.md                       # You are here
 ```
 
 ---
